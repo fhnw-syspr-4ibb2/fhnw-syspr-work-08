@@ -1,2 +1,2 @@
-# fhnw-syspr-work-07
-FHNW Modul System-Programmierung (syspr) Hands-on Lektion 7
+# fhnw-syspr-work-08
+FHNW Modul System-Programmierung (syspr) Hands-on Lektion 8
