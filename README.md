@@ -5,9 +5,10 @@ Für Slides und Code Beispiele, siehe [Lektion 8](../../../fhnw-syspr/blob/maste
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
 > *[Prüfen Sie die vorhandenen Forks, um das Repository für Ihre Klasse zu finden.](../../network/members)*
 
-### a) X, 30'
-* X:<pre>
-    $ cd ~</pre>
+### a) FIFO, 30'
+* Schreiben Sie ein Programm *my_fifo_r.c*, das ein neues FIFO File erzeugt, und zum Lesen öffnet.
+* Und ein zweites Programm *my_fifo_w.c*, welches dasselbe File öffnet und eine Nachricht überträgt.
+* Was ist der Unterschied zu einem regulären File?
 
 ### Abgabe (optional)
 * Lokale Änderungen [committen und pushen](#git).
