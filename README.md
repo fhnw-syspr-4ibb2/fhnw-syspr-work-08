@@ -3,7 +3,7 @@
 Für Slides und Code Beispiele, siehe [Lektion 8](../../../fhnw-syspr/blob/master/08/README.md)
 
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
-> *[Prüfen Sie die vorhandenen Forks, um das Repository für Ihre Klasse zu finden.](../../network/members)*
+> *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/huilbLC3).*
 
 ### a) Pipes, 15'
 * Schreiben Sie ein Programm *my_pipe.c*, welches eine Pipe von Child zu Parent Prozess erstellt.
